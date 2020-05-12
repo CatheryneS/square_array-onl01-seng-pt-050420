@@ -1,4 +1,4 @@
-def square_array(number)
+def square_array(array)
   numbers.each { |n| puts n*n }
   
 end
