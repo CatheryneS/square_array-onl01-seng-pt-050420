@@ -1,5 +1,5 @@
 def square_array(array)
   new_array = []
   array.each { |n| puts n**2 }
-  return new_array.push
+  new_array << array
 end
